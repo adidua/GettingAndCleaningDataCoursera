@@ -18,6 +18,7 @@ Course project for the "Getting and Cleaning Data course" offered on Coursera
 ** Columns 3:81: Average value per subject, per activity of various features extracted from raw data
 
 * The activity index to physical activity mapping is as follows:
+
 1 WALKING
 
 2 WALKING_UPSTAIRS
