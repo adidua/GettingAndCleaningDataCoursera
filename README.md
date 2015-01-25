@@ -3,7 +3,6 @@ Course project for the "Getting and Cleaning Data course" offered on Coursera
 
 * The analysis is implemented in run_Analysis.R.
 * The script can be run at the R command line as follows: source('run_Analysis.R')
-* The script has only been tested on a Mac (OS Yosemite)
 * The script does the following:
 ** Download the data set from the web
 ** Unzip the data set
@@ -33,4 +32,4 @@ Since there are 30 subjects and 6 activities, the data has 180 rows. Since 79 fe
 
 6 LAYING
 
-A list of features can be found in the file extracted_features.txt.
+A list of features can be found in the file extracted_features.txt. A description of the features can be found in features_info_modified.txt 
