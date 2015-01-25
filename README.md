@@ -19,10 +19,15 @@ Course project for the "Getting and Cleaning Data course" offered on Coursera
 
 * The activity index to physical activity mapping is as follows:
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
-A full list of features can be found in the file features_info.txt. Of these features, only the mean() and std() values were used for creating the data set presented here (79 such features were found). Further the means and standard deviation features were average to yield a single number per subject, per activity. Since there are 30 subjects and 6 activities, the data has 180 rows. Since 79 features were found, the data has 81 columns (2 extra for subject and activity ID, as described above).
+A full list of features can be found in the file features_info.txt (taken directly from the original raw data set). Of these features, only the mean() and std() values were used for creating the data set presented here (79 such features were found). Further the means and standard deviation features were average to yield a single number per subject, per activity. Since there are 30 subjects and 6 activities, the data has 180 rows. Since 79 features were found, the data has 81 columns (2 extra for subject and activity ID, as described above).
